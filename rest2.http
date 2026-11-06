@@ -1,0 +1,7 @@
+# POST  http://127.0.0.1:8001/payment
+# Content-Type: application/json
+
+# {
+#   "id":"01KVQA9335GAAXVKATX0X0F66H",
+#   "quantity":2
+# }
